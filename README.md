@@ -1,2 +1,0 @@
-# ImdatSite
-ucube rastgele vidler
